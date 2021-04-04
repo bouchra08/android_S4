@@ -34,7 +34,7 @@ public class SplashActivity extends AppCompatActivity {
                 PropertyValuesHolder.ofFloat("scaleY",1.2f)
                 );
         // Duration
-        objectAnimator.setDuration(500);
+        objectAnimator.setDuration(300);
         // repeat count
         objectAnimator.setRepeatCount(ValueAnimator.INFINITE);
         // repeat mode
